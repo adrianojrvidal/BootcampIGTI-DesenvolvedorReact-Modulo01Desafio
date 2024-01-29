@@ -1,0 +1,17 @@
+{
+  "name": "bootcampigti-desenvolvedorreact-modulo01desafio",
+  "version": "1.0.0",
+  "description": "Bootcamp Desenvolvedor(a) React IGTI - Desafio do Módulo 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chart.js": "^4.4.1"
+  }
+}
